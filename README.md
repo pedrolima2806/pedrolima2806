@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Eu sou Pedro Henrique 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia no <strong>IME</strong><br>
-  Interessado em tecnologia, programação e desenvolvimento de soluções.
+  Estudante de Engenharia da Computação no <strong>IME</strong><br>
 </p>
 
 <p align="center">
@@ -16,21 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Engenharia no **Instituto Militar de Engenharia (IME)**
-- 💻 Tenho interesse em **programação, desenvolvimento de software e tecnologia**
-- 🌱 Atualmente estudando e desenvolvendo projetos com foco em:
-  - **C**
-  - **C++**
-  - **Python**
-  - **HTML**
-  - **CSS**
-  - **JavaScript**
-  - **React**
 
 ---
 
@@ -51,11 +35,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolima2806&show_icons=true&theme=tokyonight&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolima2806&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrolima2806&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolima2806&layout=compact&theme=github_dark"/>
+
 </p>
 
----
 
 ## 📫 Contato
 
