@@ -1,7 +1,7 @@
 # Pedro Lima
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Developer;Game+Development+Enthusiast;Building+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Software+Developer;Game+Development+Enthusiast;Building+and+Learning+Every+Day" />
 </p>
 
 <p align="center">
